@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/silveiralexf/silveiralexf.github.io.git
+	branch = main
