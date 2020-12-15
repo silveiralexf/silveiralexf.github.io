@@ -1,0 +1,14 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+theme = "almeida-cv"
+title = "silveiralexf"
+
+[params]
+colorDark = "#666"
+colorLight = "#fff"
+colorPageBackground = "#ddd"
+colorPrimary = "#121212"
+colorPrimaryText = "#fff"
+colorRightColumnBackground = "#f5f5f5"
+colorSecondary = "#aaa"
+pages = 1

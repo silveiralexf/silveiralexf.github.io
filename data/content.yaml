@@ -1,0 +1,140 @@
+BasicInfo:
+  FirstName: Felipe
+  LastName: Silveira
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +55 19 99979-6185
+    - Icon: fas fa-envelope
+      Info: silveiralexf@gmail.com
+    - Icon: fas fa-globe
+      Info: https://silveiralexf.github.io
+    - Icon: fas fa-map-marker-alt
+      Info: Brazil
+
+Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Experience:
+  - Employer: IBM
+    Place: Hortolandia, Brazil
+    Positions:
+      - Title: Application Developer
+        Date: Jun 2020 - Present
+        Details:
+          - Assigned as Application Developer on M&EaaS (Monitoring & Event Automation as a Service) team, being responsible for creation and maintenance of an API synchronization micro-service written in Go Language -- which extracts information from different monitoring tools and consolidates data from multiple sources into a single API.
+          - Responsible for CI/CD tools such as Jenkins, UrbanCode Deploy and for the build and deployment pipeline currently in use by the team, being also responsible for development and support of all the Helm Charts and Dockerfiles currently used by the team for packaging/deploying applications.
+          - Responsible for creating tools and scripts used by development team to increase productivity, such as Command Line utilities for facilitating interaction and load tests on different API's and Ansible Playbooks for automating deployment of services in general.
+        Badges: ['IT Infrastructure', 'Automation', 'Monitoring', 'APM', 'Linux', 'Docker', 'Kubernetes', 'OpenShift Container Platform','Jenkins', 'UrbanCode Deploy', 'Bash', 'Python', 'GoLang', 'Ansible', 'Prometheus', 'Grafana', 'ELK', 'Tivoli Monitoring', Agile', 'Git']
+      - Title: Site Relieability Engineer
+        Date: Nov 2017 - Jun 2020
+        Details:
+          - Part of the M&EaaS (Monitoring & Event Automation as a Service) DevOps team, which responsible for the M&EaaS Portal, which provides integrated monitoring services to multiple IBM customers from Europe.
+          - I'm currently responsible for the deployment and availability of the solution, supporting both Development and Ops teams by automating and developing better ways of doing things and also on-boarding new customers..
+        Badges: ['Linux', 'Kubernetes', 'Docker', 'Jenkins', 'UrbanCode Deploy (UCD)', 'Bash', 'Python', 'Ansible', 'Ansible Tower', 'Prometheus', 'Tivoli Monitoring', 'IPM8']
+      - Title: Lead System Engineer
+        Date: Jan 2015 - Nov 2017
+        Details:
+          - Responsible for developing new monitors and automation to support Michelin North America monitoring infrastructure in order to guarantee quality and availability using ITM6 and BlueCARE.
+        Badges: ['IT Infrastructure',' Automation',' Monitoring',' Red-Hat',' SUSE',' AIX',' Bash',' Python',' Tivoli Monitoring',' ITM6',' BMC Patrol',' IBM BlueCARE Portal']
+      - Title: Subject Matter Expert
+        Date: Jul 2011 - Jan 2015
+        Details:
+          - Assigned as a Subject Matter Expert for Enterprise Automation team being responsible for automating and supporting the monitoring infrastructure using ITM5, ITM6 and BlueCARE. supporting Global Accounts such as Whirlpool, Honda Motor Company, GAP, IBM Canada, Michelin North America and Morgan Stanley.
+        Badges: ['Automation',' Monitoring',' Red-Hat',' SUSE',' AIX',' Bash',' Tivoli Monitoring',' ITM5',' ITM6',' ITCAM RRT',' BMC Patrol',' BMC ProactiveNet']
+      - Title: IT Specialist assigned at IBM e-Business Hosting
+        Date: Feb 2009 - Jul 2011
+        Details:
+          - Specialist on IT infrastructure solutions, part of the Enterprise Automation team at IBM Brazil. Supported a large BMC Patrol environment with over 4000 monitoring agents integrated with different Tivoli monitoring tools on multiple environments, using Tivoli Configuration Management, Tivoli Distributed Monitoring and ITM 6.2 solutions for a pool with over 100 off-shore accounts in different sectors such as Banking, Health-care, Oil & Gas, Automotive, Energy, Retail, News Media and Public Sector.
+          - Also responsible for the development and delivery of new solutions focusing on automation of manual tasks for cost reduction and revenue assurance
+        Badges: ['Automation',' Configuration Management',' Monitoring',' Red-Hat',' SUSE',' AIX',' Bash',' Tivoli',' ITM5',' ITM6',' ITCAM',' TCM',' BMC Patrol']
+  - Employer: BearingPoint
+    Place: Rio de Janeiro, Brazil
+    Positions:
+      - Title: Senior Infrastructure Consultant
+        Date: Oct 2007 - Nov 2008
+        Details:
+          - Specialist in IT infrastructure solutions, part of the Technology & Solutions team. Responsible for helping on pre-sales and on implementations of IT infrastructure projects on BearingPoint Brazil.
+          - Acted as part of the Knowledge Management team at VALE. Being responsible for managing new demands and generating the Key Performance Indicators for the mining assets fuel supply.
+        Badges: ['IT Infrastructure', 'Outsourcing','Configuration Management', 'Pre-Sales', 'Project Management', 'Knowledge Management']
+  - Employer: IBM Brazil
+    Place: Rio de Janeiro, Brazil
+    Positions:
+      - Title: IT Specialist - Assigned to Carrefour Brazil
+        Date: Aug 2006 - Oct 2007
+        Details:
+          - Specialist in IT infrastructure solutions, part of the Brazilian Automation service -line at IBM Brazil. Helping to support non IBM solutions on Brazil and on off shore accounts.
+          - Responsible for development and delivery of new solutions focusing automation of manual tasks and operations for cost reduction and revenue assurance.
+        Badges: ['IT Infrastructure', 'Automation','Outsourcing', 'Configuration Management', 'Pre-Sales', 'Project Management', 'Knowledge Management']
+  - Employer: EDS
+    Place: Sao Caetano, Brazil
+    Positions:
+      - Title: Infrastructure Specialist
+        Date: Apr 2006 - Aug 2006
+        Details:
+          - IT specialist with focus on supporting the EDS clients, using solutions such as CA Unicenter TNG / NSM, BMC PATROL and BMC PATROL Performance.
+          - Part of the Automation and Tools off-shore group, supporting accounts in the US like NASD and Nextel.
+        Badges: ['Automation', 'Configuration Management', 'Monitoring', 'Red-Hat', 'SUSE', 'AIX', 'Bash', 'BMC Patrol Performance']
+  - Employer: AUM Management (BMC Software Partner)
+    Place: Rio de Janeiro, Brazil
+    Positions:
+      - Title: IT Consultant
+        Date: Aug 2003 - Apr 2006
+        Details:
+          - IT consultant/Pre-sales, with focus on Infrastructure Management and Service Desk solutions using BMC Software and Computer Associates solutions in large/medium accounts like Petrobras, Aracruz Celulose, Light, Oi(Telemar), Blah!(TIM), Andima, Unimed, White Martins and SITA.
+        Badges: ['Automation',' Configuration Management',' Monitoring',' Red-Hat',' SUSE',' Solaris',' Bash',' BMC Patrol',' BMC Patrol Performance',' Unicenter NSM',' Unicenter Service Desk']
+Education:
+  - Course: Computer Science
+    Place: Estacio de Sa University (Rio de Janeiro/Brazil)
+    Date: Incomplete/Dropout
+
+Skills:
+  - Family: OS/Platforms
+    Items:
+      - RedHat
+      - Ubuntu
+      - SUSE
+      - AIX
+      - Solaris
+      - Kubernetes
+      - IBM Cloud
+      - IBM Cloud Private
+      - OpenShift Container Platform
+  - Family: Programming
+    Items:
+      - Golang
+      - Python
+      - Bash
+      - Git
+  - Family: Tools
+    Items:
+      - Ansible
+      - ELK
+      - Grafana
+      - Docker
+      - Grafana
+      - AWS
+  - Family: Monitoring
+    Items:
+      - Prometheus
+      - NewRelic
+      - ITM5
+      - ITM6
+      - IPM8
+      - ITCAM
+      - BMC Patrol
+      - Unicenter TNG/NSM
+
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: Fluent
+  - Name: Spanish
+    Level: Basic
+
+Awards:
+  - Cognitive Innovation Leadership Award (Dec/2019)
+  - IBMer's Essential Award (Apr/2017)
+  - IBM Manager's Choice Award (Nov/2017)
+  - IBM Manager's Choice Award (Nov/2016)
